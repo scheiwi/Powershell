@@ -40,4 +40,8 @@ Sehr geehrte Damen und Herren
 
 ***
 
+[Emoji Cheat Sheet web](https://www.webfx.com/tools/emoji-cheat-sheet/)
+
 :+1:
+:weary:
+:clap:
