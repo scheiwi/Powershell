@@ -17,4 +17,4 @@ Ist für mich so ok
 > Gugus
 > Peter
 
-[zur SBB](www.sbb.ch)
+[zur SBB](https://www.sbb.ch)
