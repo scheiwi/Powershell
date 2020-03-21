@@ -45,3 +45,4 @@ Sehr geehrte Damen und Herren
 :+1:
 :weary:
 :clap:
+:two_women_holding_hands:
