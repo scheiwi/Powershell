@@ -64,8 +64,8 @@ Write-Output "`nExported role assignments to: '$exportPath'"
 Write-Output $roleAssignments
 
 <# Snippet to compare two different exports
-$firstReport = Import-Csv -Path "AzureADDirectoryRoleAssignments_2020-03-13 - Copy.csv" -Delimiter ";"
-$secondReport = Import-Csv -Path "AzureADDirectoryRoleAssignments_2020-03-13.csv" -Delimiter ";"
+$firstReport = Import-Csv -Path "AzureADDirectoryRoleAssignments_2020-03-25 - Kopie.csv" -Delimiter ";"
+$secondReport = Import-Csv -Path "AzureADDirectoryRoleAssignments_2020-03-25.csv" -Delimiter ";"
 Compare-Object $firstReport $secondReport
 #>
 
