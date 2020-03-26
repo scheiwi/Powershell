@@ -14,7 +14,6 @@ Clear-Host
 # $ErrorActionPreference = "Stop"
 
 Push-Location $(Split-Path $Script:MyInvocation.MyCommand.Path)
-Write-host $(Split-Path $Script:MyInvocation.MyCommand.Path)
 
 if ($ConfigFileName) {
     $ConfigurationFile = ".\$ConfigFileName.xml"
