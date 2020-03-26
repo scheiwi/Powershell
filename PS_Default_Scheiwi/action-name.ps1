@@ -11,7 +11,7 @@ param(
     [string] $ConfigurationFile 
 )
 Clear-Host
-# $ErrorActionPreference = "Stop"
+$ErrorActionPreference = "Stop"
 
 Push-Location $(Split-Path $Script:MyInvocation.MyCommand.Path)
 
